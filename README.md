@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'M currently working on a react based frontend project which uses firebase
+Hi there 👋
+
+Nice meeting you, I'm Anshuman!
+
+🎓 I'm in my final year of B.Tech in AI&DS
+
+🚀 I’m currently working on a React-based Chat App project
+
+🧩 I also build AR projects like an AR Smart Textbook App
+
+😀 Pronouns: He/Him
+
+⚡ Fun fact: If I’m not coding, I’m probably exploring tech videos or working on side projects
 
 
 ## 🌐 Socials:
